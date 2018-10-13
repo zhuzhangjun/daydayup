@@ -12,3 +12,4 @@ echo ${arr1[2]}
 echo ${arr1[*]}
 length=${#arr1[*]}
 echo $length
+daydayup
